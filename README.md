@@ -2,7 +2,7 @@
 
 Okapi BM25 (lite) in TypeScript
 
-# Usage
+## Usage
 
 ```typescript
 
@@ -18,10 +18,10 @@ Okapi BM25 (lite) in TypeScript
 
 ```
 
-# Author
+## Author
 
 @arpad1337
 
-# License
+## License
 
 MIT
